@@ -21,6 +21,7 @@ class MainActivity : AppCompatActivity() {
             }
             var s:String?=null
         } catch (e: Exception) {
+            //ghguui
         }
         return true;
 
