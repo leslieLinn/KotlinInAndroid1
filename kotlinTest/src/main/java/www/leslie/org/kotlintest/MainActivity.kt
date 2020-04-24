@@ -9,6 +9,7 @@ class MainActivity : AppCompatActivity() {
     //1 2
 
     private var a:Int=10;
+    private var c:Int=5
 
     public fun  say(i: Int):Boolean {
         //1 2 3
